@@ -4,7 +4,7 @@
 Configuration
 ----
 
-Use the following example implementation to get started with deviantART's passport strategy library
+Use the following example implementation to get started with deviantART's passport strategy library:
 
 ```javascript
 var passport = require('passport'),
