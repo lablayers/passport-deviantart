@@ -1,6 +1,6 @@
 {
     "name": "passport-deviantart",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "deviantART oAuth strategy for Passport.",
     "keywords": ["deviantart", "art", "passport", "auth", "authn", "authentication", "identity"],
     "repository": {
