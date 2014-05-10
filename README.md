@@ -1,8 +1,8 @@
 # deviantART Passport Strategy
 
-It currently passes back passport's universal `username` and `avatar` values.
+It currently passes back passport's universal `id`, `username`, and `avatar` values.
 
-A future version will pass back the unique hash as `id` once deviantART releases `ident`.
+`symbol` has been deprecated in v0.0.4.
 
 Installation
 ----
